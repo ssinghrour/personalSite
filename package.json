@@ -1,0 +1,23 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "Personal site built on MEAN stack and deployed on Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssinghrour/personalSite.git"
+  },
+  "author": "Sarvesh Singhrour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssinghrour/personalSite/issues"
+  },
+  "homepage": "https://github.com/ssinghrour/personalSite#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
