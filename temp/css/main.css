@@ -1,0 +1,37 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+a, a:hover, a:active{
+    color: #5ebbcd;
+    text-decoration: none;
+    cursor: pointer;
+}
+.navbar-inverse{
+    background-color: #FFF;
+    padding: 6px 0;
+    border-color: #908585;
+}
+img.logo{
+    margin-top: -55px;
+    height: 130px;
+}
+.cLinks h5{
+    padding-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
